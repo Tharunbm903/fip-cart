@@ -1,0 +1,461 @@
+.head{
+    
+    height:70px;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   background-color:white;
+   position: fixed;   
+    
+}
+body{
+  margin:0;
+  background-color: #f1f3f6;
+ justify-content: center;
+ align-items: center;
+  
+
+}
+
+
+   .flipkart{
+    font-size:40px ;
+    font-weight: bold;
+    color:  #2874f0;
+   }
+   .logo small{
+    font-size: 12px;
+    color: gray;
+   }
+   .plus{
+    color:orange;
+   }
+  
+   
+   .search-box input{
+    height: 40px;
+    width: 400px;
+    padding: 10px,15px;
+    border-radius: 10px;
+    justify-content: space-between;
+   
+
+    
+    background-color: #f0f5ff;
+    font-size: 20px;
+   }
+   .search-box i{
+  align-items: center;
+  margin:-40px;
+  font-size: 20px;
+
+    
+   }
+   .login-lo{
+   height: 45px;
+   width: 105px;
+   background-color:#f0f5ff ;
+    font-size:30px ;
+    display: flex;
+  
+    border-radius: 5px;
+   text-align: center;
+
+
+
+   }
+   .border:hover{
+    border: 20px  solid #2874f0  ;
+    display: inline;
+
+   }
+   .shoping i{
+   
+    font-size: 40px;
+   }
+   .shop i{
+    font-size: 40px;
+
+   }
+   .menu i{
+    font-size: 30px;
+   }
+    .sec-line{
+      top: 100px;
+  
+   margin-left: 60px;
+   height: 150px;
+   width: 1460px;
+   background-color:#dee3ece0;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+  }
+  .reader-1{
+   background-image: url("delivery.jpg");
+   background-size: cover;
+   border-radius: 18px;
+   height: 100px;
+   width: 120px;
+  }
+  .MINUTE{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+  }
+  .mobils-1{
+    background-image: url("mobile1 sec-line.jpeg");
+   background-size: cover;
+   border-radius: 18px;
+   height: 100px;
+   width: 120px;
+
+  }
+  .mobils-2{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+   
+  }
+   .apliction-1{
+    background-image: url("tv aplications.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+  }
+  .tv-2{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+   
+  }
+  .electronics-2{
+    background-image: url("assus.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+  }
+  .item-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+   
+  }
+   .fashion-2{
+    background-image: url("fastion.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .desien-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+   
+  }
+   .kichen-2{
+    background-image: url("kichen.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .home-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+   
+  }
+   .furniture-2{
+    background-image: url("chaires.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .chaires-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+   
+  }
+  .toys-2{
+    background-image: url("toyes.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .beauty-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+   
+  }
+  .third-line{
+    margin: 2rem;
+   margin-left: 60px;
+   height: 250px;
+   width: 1460px;
+   background-color:#dee3ece0;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+  }
+  .fourth-line{
+    margin: 2rem;
+   justify-content: space-evenly;
+   align-items: center;
+   background-size: cover;
+   height: 280px;
+   width: 90%;
+   background-color:#dee3ece0;
+   display: flex;
+   margin-left: 4%;
+    margin-right:5% ;
+
+  
+  
+  }
+ .burtes-2{
+    background-image: url("Egate-4th-line.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .project-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+  
+  }
+  .tv1-2{
+    background-image: url("tv-4th-line.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .Acer-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+  
+  }
+  .tv2-2{
+    background-image: url("tv2-4th-line.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .Deel-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+  
+  }
+  .camera-2{
+    background-image: url("camera-4th-line.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .photo-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+  
+  }
+  .watch-2{
+    background-image: url("watch-4th-line.jpeg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .wirlees-wath-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+  
+  }
+  .speaker-2{
+    background-image: url("speaker-4th-line.jpg");
+   background-size: cover;
+   border-radius: 20px;
+   height: 100px;
+   width: 120px;
+
+   }
+  .wirlees-speak-3{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 20px;
+  }
+  
+
+
+  
+  .fivth-line{
+     height: 300px;
+    width:15%;
+     background-color:#dee3ece0;
+     background-image: url("booking-4th-line.jpeg");
+     background-size: cover;
+     margin-left: 4%;
+    margin-right:5% ;
+  }
+
+  .border-1:hover{
+    border: 2px  solid white  ;
+    display: inline;
+
+   }
+   .flight-cotainer{
+    display: flex;
+    gap: none;
+   }
+   .non-line{
+    width: 100%;
+    height: 100px;
+    background-color:#dee3ece0;
+    margin-left: 4%;
+    margin-right:5% ;
+    
+
+    
+
+
+   }
+   .home-items{
+    width: 35%;
+    height: 450px;
+    margin-left: 4%;
+    margin-right:5% ;
+     background-color:#dee3ece0;
+      padding: 20px 0px;
+      display: grid;
+    grid-template-columns: repeat(2,2fr);
+   }   .nets{
+    width: 80%;
+    height: 190px;
+    background-image: url("nets-6thline.jpeg");
+    background-size: contain;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 9px;
+   
+   
+
+   }
+   .blakit{ width: 80%;
+    height: 190px;
+    background-image: url("blakint.jpeg");
+    background-size: contain;
+    margin-left: 2rem;
+    margin-right: 2rem;
+     border-radius: 9px;
+   }
+   .clock{ width: 45%;
+    width: 80%;
+    height: 190px;
+     background-image: url("clocks-6thline.jpeg");
+    background-size: contain;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 9px;
+   }
+   .lunch-box{ width: 45%;
+    width: 80%;
+    height: 190px;
+     background-image: url("lunch-6thline.jpeg");
+    background-size: cover;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 9px;
+  border: none;}
+  .fation-continer{
+    display: flex;
+  }
+  .shoes{
+    width: 35%;
+    height: 450px;
+    margin-left: 4%;
+    margin-right:5% ;
+     background-color:#dee3ece0;
+      padding: 20px 0px;
+      display: grid;
+    grid-template-columns: repeat(2,2fr);
+
+  }
+   .socs{
+    width: 45%;
+    width: 80%;
+    height: 190px;
+    background-image: url("socse-6thline.jpeg");
+    background-size: cover;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 9px;
+   }
+   .jacets{
+     width: 45%;
+    width: 80%;
+    height: 190px;
+    background-image: url("jacket-6thline.jpeg");
+    background-size: cover;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 9px;
+
+   }
+   .sweatshet{
+    width: 45%;
+    width: 80%;
+    height: 190px;
+    background-image: url("sweatsheat-6thline.jpeg");
+    background-size: cover;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 9px;
+    
+   }
+   .womenjacet{
+
+    width: 45%;
+    width: 80%;
+    height: 190px;
+   background-image: url("women jacet-6thline.jpeg");
+    background-size: cover;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 9px;
+   }
+   .fation{
+    width: 25%;
+    height: 450px;
+    margin-left: 4%;
+    margin-right:5% ;
+     background-image: url("fation-6thline.jpeg");
+    background-size:contain;
+      padding: 20px 0px;
+   }
+
